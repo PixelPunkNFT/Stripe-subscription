@@ -4,14 +4,23 @@ Explore a full, working code sample of an integration with Stripe Checkout and t
 
 ## Running the sample
 
-1. Build the application
+1. Start server
+
+~~~
+cd backend
+~~~
+~~~
+npm install
+~~~
+~~~
+npm start
+~~~
+
+2. Run the client
 
 ~~~
 npm install
 ~~~
-
-2. Run the application
-
 ~~~
 npm start
 ~~~
