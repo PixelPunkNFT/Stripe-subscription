@@ -13,6 +13,9 @@ cd backend
 npm install
 ~~~
 ~~~
+npm audit fix
+~~~
+~~~
 npm start
 ~~~
 
